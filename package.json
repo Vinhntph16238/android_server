@@ -1,6 +1,12 @@
 {
   "dependencies": {
     "http": "^0.0.1-security",
+<<<<<<< HEAD
+=======
+    "url": "^0.11.1"
+  },
+  "devDependencies": {
+>>>>>>> 3d861a51ffa2b742dd53bf898e51e9654c84f863
     "nodemon": "^3.0.1"
   }
 }
